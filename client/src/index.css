@@ -1,0 +1,40 @@
+h1{
+    text-transform: uppercase;
+    padding: 40px 0;
+    font-weight: bold !important;
+}
+form {
+    box-shadow: 5px 5px 5px 2px gainsboro;
+    padding: 3rem 7rem;
+    border-radius: 5px;
+}
+
+h2{
+    text-align: left;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+    font-weight: bold !important;
+}
+
+label {
+    float: left;
+    font-weight: 600;
+}
+
+.form-control {
+    padding: 9px !important;
+    margin-bottom: 20px;
+}
+
+::placeholder {
+    color: #b6b5b5 !important;
+}
+
+.btn-primary {
+    width: 15%;
+    float: left;
+    padding: 9px 0 !important;
+}
+.btn{
+    font-weight: 600 !important;
+}
